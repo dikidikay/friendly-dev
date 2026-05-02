@@ -4,7 +4,7 @@ A full-stack, server-side rendered portfolio website for a web developer to show
 
 ## 🌐 Live Site
 
-> [Live Site](https://dikidikay-friendly-dev.netlify.app)
+> [Live Site](https://dikidikay-friendly-dev.vercel.app/)
 
 
 ## 🔗 Related Repositories
@@ -49,7 +49,7 @@ This project served as a deep dive into modern full-stack React development. Her
 
 ### Deployment
 - Deployed the **Strapi backend** to **Railway**.
-- Deployed this **frontend** to **Netlify**.
+- Deployed this **frontend** to **Vercel**.
 
 ### 🏗️ TypeScript & Type Safety
 - Typed Strapi API responses with custom interfaces (`StrapiProject`, `StrapiPost`, `StrapiResponse<T>`), then mapped them to clean internal types (`Project`, `Post`) in each loader — keeping component code decoupled from the raw API shape.
@@ -72,7 +72,7 @@ This project served as a deep dive into modern full-stack React development. Her
 | Contact Form | Formspree |
 | Build Tool | Vite |
 | Backend Hosting | Railway |
-| Frontend Hosting | Netlify |
+| Frontend Hosting | Vercel |
 
 ---
 
